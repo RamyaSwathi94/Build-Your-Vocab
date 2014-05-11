@@ -1,0 +1,10 @@
+{
+"reponame":"template-single-view",
+"title":"Single View App",
+"tooltip":"This template can be used for simple application that has just one view, this template can be used for creating applications similar to Flash light app or Calculator app.",
+"description":"This template can be used for simple application that has just one view, this template can be used for creating applications similar to Flash light app or Calculator app.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"visible" : "false",
+"keywords":[""],
+"highlights" : [""]
+}
